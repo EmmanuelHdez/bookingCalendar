@@ -7,7 +7,7 @@ import { stockData } from '../static';
 
 export default function Sidebar() {
 
-    const [showSidebar, setShowSidebar] = useState(true);    
+    const [showSidebar, setShowSidebar] = useState(false);    
 
     return (
 
